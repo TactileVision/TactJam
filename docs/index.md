@@ -2,7 +2,7 @@
 
 TactJam is a collaborative playground for composing spatial tactons.
 
-![TactJam setup](https://github.com/TactileVision/TactJam/docs/img/TactJam-Teaser.jpg)
+![TactJam setup](https://github.com/TactileVision/TactJam/blob/gh-pages/docs/img/TactJam-Teaser.jpg)
 
 
 ## Repositories
@@ -13,6 +13,6 @@ TactJam is a collaborative playground for composing spatial tactons.
 + Server: [https://github.com/TactileVision/TactJam-server](https://github.com/TactileVision/TactJam-server)
 
 
-+++
+***
 
 🧑‍💻 **website under construction** 👷‍♀️
